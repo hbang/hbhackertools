@@ -1,0 +1,20 @@
+#!/bin/bash
+# Respring/safe mode shortcut
+# By Adam Demasi <http://kirb.me/>
+# Licensed under the MIT License <http://mit-license.org/>
+
+case "$1" in
+	-s)
+		killall -ABRT SpringBoard
+		;;
+
+	"")
+		killall -HUP SpringBoard
+		;;
+
+	*)
+		echo "Usage: $(basename "$0") [-s]"
+		echo "  -s    Enters safe mode."
+		exit 1
+		;;
+esac
