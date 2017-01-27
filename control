@@ -1,6 +1,6 @@
 Package: ws.hbang.hbhackertools
 Name: hbhackertools
-Depends: adv-cmds, apt7, basic-cmds, bootstrap-cmds, bzip2, class-dump, com.a3tweaks.flipswitch, com.ericasadun.utilities, com.innoying.sbutils, com.rpetrich.rocketbootstrap, coreutils, crash-reporter, curl, cycript, developer-cmds, diffutils, diskdev-cmds, file, file-cmds, findutils, gawk, gdb, git, gzip, inetutils, iokittools, jp.ashikase.symbolicate, ldid, less, lsof, make, mobilesubstrate, nano, network-cmds, firmware (>= 10.0) | openssh, p7zip, patch, pincrush, pngcrush, preferenceloader, rsync, shell-cmds, subversion, sudo, system-cmds, tar, top, uikittools, unrar, unzip, wget, whois, xar, xml2, zip
+Depends: adv-cmds, apt7, basic-cmds, bootstrap-cmds, bzip2, class-dump, com.a3tweaks.flipswitch, com.ericasadun.utilities, com.innoying.sbutils, com.rpetrich.rocketbootstrap, coreutils, crash-reporter, curl, cycript, developer-cmds, diffutils, diskdev-cmds, file, file-cmds, findutils, gawk, gdb, git, gzip, inetutils, iokittools, jp.ashikase.symbolicate, ldid, less, lsof, make, mobilesubstrate, nano, network-cmds, firmware (>= 10.0) | openssh, p7zip, patch, pincrush, pngcrush, preferenceloader, rsync, shell-cmds, sudo, system-cmds, tar, top, uikittools, unrar, unzip, wget, whois, xar, xml2, zip
 Version: 1.1.2
 Architecture: iphoneos-arm
 Description: Command line tools I install after jailbreaking
